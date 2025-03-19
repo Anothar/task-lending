@@ -335,11 +335,6 @@ h5 {
     padding: 90px 70px;
   }
   
-  .section5__content {
-    flex-direction: row;
-    gap: 70px;
-  }
-  
   .section5__block {
     width: 480px;
     height: 547px;
@@ -371,6 +366,13 @@ h5 {
 
   .section6__content > .button {
     margin-left: 14px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .section5__content {
+    flex-direction: row;
+    gap: 70px;
   }
 }
 
