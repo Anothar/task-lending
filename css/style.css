@@ -9,6 +9,7 @@ body {
   color: white;
   font-family: Finlandica, sans-serif;
   color: #C4CFDE;
+  min-height: 390px;
 }
 
 * {
